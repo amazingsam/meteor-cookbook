@@ -183,3 +183,5 @@ sudo chmod -R 777 ~/.meteor
 sudo chown username:wheel ~/.npm
 sudo chmod -R 777 ~/.npm
 ````
+
+[Back to Table of Contents](https://github.com/awatson1978/meteor-cookbook/blob/master/table-of-contents.md)
